@@ -2,7 +2,6 @@
 
 A console-based Python project that reads hotel sales data from a CSV file, validates the records, calculates revenue, and shows useful summaries such as total revenue, best day, and revenue by room type. It also displays charts for better analysis.
 
-**PS No.:** 95  
 **University:** Rungta International Skills University  
 **School:** School Of Computer Science And Engineering  
 **Course:** B.Tech CSE Core  
@@ -170,8 +169,8 @@ Hotel-Revenue-Analyzer/
 
 ## Author
 
-- Name: Mehul
-- ERP: RU-26-01503
+- Name: M Kumar Raja
+- ERP: RU-26-01581
 - Section: M
 
 ---
