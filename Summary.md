@@ -35,18 +35,36 @@ This project is a console-based hotel sales analyzer. It reads room sales data f
 ## 3. Test Cases and Screenshots
 
 ### Test Case 1:
+<img width="1917" height="1030" alt="Screenshot 2026-11-13 192249" src="https://github.com/user-attachments/assets/c6515626-1d36-4e70-a5d7-421cde17f3ac" />
+
 
 
 
 ### Test Case 2:
+<img width="1917" height="1010" alt="Screenshot 2026-11-13 192304" src="https://github.com/user-attachments/assets/6b5eda52-6b45-41d6-b50d-3fdb1980c945" />
+
 
 
 
 ### Test Case 3:
+<img width="1917" height="1016" alt="Screenshot 2026-11-13 192326" src="https://github.com/user-attachments/assets/f8e3de64-8bb2-46b0-8ca1-fcc115b3a7bc" />
+
 
 
 
 ### Test Case 4:
+<img width="1915" height="1018" alt="Screenshot 2026-11-13 192340" src="https://github.com/user-attachments/assets/943ffcfd-367f-4e20-a209-066ca6a15315" />
+
+
+### Graph OLf Test Case 1:
+<img width="800" height="500" alt="graph_project" src="https://github.com/user-attachments/assets/2363ef36-cd7a-4897-ba2a-35ba0cf7dd02" />
+
+### Graph OLf Test Case 2:
+<img width="700" height="500" alt="graph_proj" src="https://github.com/user-attachments/assets/cdaa4658-9b9e-4955-916e-9832d3e83c8f" />
+
+
+
+
 
 
 
