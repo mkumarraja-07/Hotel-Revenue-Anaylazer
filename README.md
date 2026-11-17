@@ -164,7 +164,6 @@ Hotel-Revenue-Analyzer/
 ├── one.csv                # hotel sales data
 ├── README.md              # project description
 ├── Summary.md             # project summary
-└── images/                # screenshots (if added)
 ```
 
 ## Author
